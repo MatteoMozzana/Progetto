@@ -12,15 +12,6 @@ Dati estratti tramite la libreria **FastF1** — API ufficiale che fornisce tele
 - **Sessione:** Gara
 - **Piloti analizzati:** Leclerc, Sainz, Verstappen
 
-## Struttura del progetto
-f1-ml-project/
-├── data/
-│   └── cache/          # Cache locale FastF1 (non inclusa nel repo)
-├── notebooks/
-│   ├── 1.EDA.ipynb     # Analisi esplorativa dei dati
-│   └── 02_Model.ipynb  # Addestramento e valutazione del modello
-└── README.md
-
 ## Fasi del progetto
 ### 1. EDA (Exploratory Data Analysis)
 - Esplorazione del dataset: 1008 giri, 31 variabili
